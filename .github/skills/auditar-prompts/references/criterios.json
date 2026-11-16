@@ -1,0 +1,19 @@
+{
+  "criterios": [
+    {
+      "id": "objetivo",
+      "marcadores": ["resume", "explica", "compara", "redacta", "genera", "analiza", "clasifica"],
+      "sugerencia": "Indica qué acción debe realizar el asistente."
+    },
+    {
+      "id": "audiencia",
+      "marcadores": ["audiencia", "público", "dirigido a", "para estudiantes", "para principiantes"],
+      "sugerencia": "Especifica quién leerá la respuesta y qué conocimientos tiene."
+    },
+    {
+      "id": "formato",
+      "marcadores": ["formato", "tabla", "lista", "viñetas", "json", "párrafos"],
+      "sugerencia": "Define cómo debe presentarse la entrega, por ejemplo en una lista de tres viñetas."
+    }
+  ]
+}
